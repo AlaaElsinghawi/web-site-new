@@ -1,0 +1,73 @@
+
+body{
+    background-image:url('http://localhost/oop/Library/app/Resource/upload//1558421676newsweb.jpg');
+    color:aliceblue;
+}
+
+*{box-sizing: border-box;}
+.btn-danger {
+	margin:7px;
+}
+.conttent ul
+{
+list-style: none;
+padding: 5px;
+}
+.header p {
+    margin-top:10px;
+    font-size: 28px;
+    float: right;
+    font-family: cursive;
+}
+.header a{text-decoration: none;font-size:20px;}
+
+.form-control ,input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].btn-block
+{
+	width: 50%;
+}
+textarea.form-control {
+    height: 80px;
+}
+h5{
+	font-size:15px;
+    float: right;
+    
+}
+.sectiontable
+{
+    background-color: white;
+    color: black;
+}
+th
+{
+	background-color:#ff9;
+}
+.message h3 
+{
+    font-size: 26px;
+    font-family: fantasy;
+    color: red;
+    text-align: center;
+
+}
+.imglibrary
+{
+    width:282px;
+    height: 250px;
+    padding: 10px;
+}
+input[type=checkbox], input[type=radio]
+{
+    display: block;
+    margin-left: 11px;
+    z-index: 888;
+    position: absolute;
+    margin-top: 10px;
+}
+ .title{margin-left: 80px}
+.image{float:left;}
+.form-group{margin-left:80px;}
+textarea.form-control {
+    height: 110px;
+    width: 550px;
+}
